@@ -1,4 +1,4 @@
-<h2 align="center">oi! 😁🫂</h2>
+<h1 align="center">oi! 😁🫂</h1>
 
 <div align="center">
   <img width="300" height="300" src="https://i.makeagif.com/media/6-13-2015/NRO131.gif">
@@ -30,6 +30,10 @@
 
 ###
 
+> Todos os meus projetos de programação se encontram [aqui](https://github.com/juliacvieira?tab=repositories).
+
+---
+
 <h3 align="left">🧠  Estou aprendendo/uso:</h3>
 
 ###
@@ -46,13 +50,13 @@
   <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" height="25" />
 </div>
 
-###
+##
 
 <h3 align="left">🎮  Não vivo sem:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" height="25" />
